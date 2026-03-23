@@ -1,4 +1,3 @@
-好的，我将根据你的要求对博客进行以下修改：
 # VLN-BERT 复现全记录：踩坑、调参、结果分析
 
 > 2025年8月 我复现了第一篇 VLN 论文 —— 《Self-Monitoring Navigation Agent via Auxiliary Progress Estimation》。当时从环境搭建到最终跑通，踩了不少坑。这篇文章就是一份完整的复现记录，希望能帮到同样在 VLN 方向入门的朋友。
