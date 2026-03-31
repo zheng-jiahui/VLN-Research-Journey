@@ -1,4 +1,4 @@
-# VLN-BERT 复现全记录：踩坑、调参、结果分析
+# VLN-Self-Monitoring 复现全记录：踩坑、调参、结果分析
 
 > 2025年8月 我复现了第一篇 VLN 论文 —— 《Self-Monitoring Navigation Agent via Auxiliary Progress Estimation》。当时从环境搭建到最终跑通，踩了不少坑。这篇文章就是一份完整的复现记录，希望能帮到同样在 VLN 方向入门的朋友。
 
@@ -266,9 +266,3 @@ CUDA_VISIBLE_DEVICES=0 python tasks/R2R-pano/main.py \
 
 如果你也在复现这篇论文，欢迎交流讨论！
 
----
-
-**参考链接**  
-- 论文原文：[https://arxiv.org/abs/1807.06757](https://arxiv.org/abs/1807.06757)  
-- 官方代码：[https://github.com/chihyaoma/selfmonitoring-agent](https://github.com/chihyaoma/selfmonitoring-agent)  
-- R2R 数据集：[https://github.com/peteanderson80/Matterport3DSimulator](https://github.com/peteanderson80/Matterport3DSimulator)
