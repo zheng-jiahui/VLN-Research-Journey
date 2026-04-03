@@ -13,3 +13,5 @@ git push -u origin main
 git add .
 git commit -m "添加复现记录的Self-Monitoring.md"
 git push -u origin main
+
+git commit -m "添加复现记录的DUET,BEVbert,Landmark,speaker-follower.md"
